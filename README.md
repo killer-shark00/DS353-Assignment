@@ -5,7 +5,4 @@ Analysis of High-energy physics theory citation network
 --> Inside Dataset Folder
 
 # Code
--->src -> main -> scala -> GraphX
-
-# Results
---> Results
+-->src -> main -> scala 
