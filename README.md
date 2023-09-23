@@ -1,11 +1,11 @@
 # DS353-graph-Analysis
 # Analysis of High-energy physics theory citation network
 
-Dataset
+# Dataset
 --> Inside Dataset Folder
 
-Code
+# Code
 -->src -> main -> scala -> GraphX
 
-Results
+# Results
 --> Results
