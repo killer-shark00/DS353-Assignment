@@ -1,5 +1,5 @@
 # DS353-graph-Analysis
-# Analysis of High-energy physics theory citation network
+Analysis of High-energy physics theory citation network
 
 # Dataset
 --> Inside Dataset Folder
