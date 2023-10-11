@@ -3,9 +3,13 @@ Analysis of High-energy physics theory citation network
 
 # Collaborators
 Ashwani Kumar - killer-shark00
-Harsh Rawat - 
-Jayant Kumawat - 
-Kartik Bhamare - 
+
+Harsh Rawat -  harshrawat20
+
+Jayant Kumawat - JayantKumawat
+
+Kartik Bhamare - kartiksbhamare
+
 Anil Kumar - 
 
 # Dataset
